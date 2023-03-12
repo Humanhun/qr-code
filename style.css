@@ -1,0 +1,40 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+    margin: 0;
+}
+
+h1 {
+    font-family: Outfit;
+    font-size: 18px;
+    margin: 20px auto 10px;
+}
+
+p {
+    color: grey;
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+
+.image {
+    border-radius: 7px;
+    height: 250px;
+    width: 250px;
+}
+
+.container {
+    background-color: #fff;
+    width: 250px;
+    margin: 150px auto 70px;
+    padding: 10px;
+    border-radius: 15px;
+}
